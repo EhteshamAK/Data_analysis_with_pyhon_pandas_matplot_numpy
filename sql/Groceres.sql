@@ -1,0 +1,1 @@
+create table groceries (id integer primary key, name text, quantity integer);
